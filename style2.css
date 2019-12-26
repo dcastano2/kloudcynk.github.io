@@ -1,0 +1,28 @@
+/*Selector*/
+
+
+
+h2 {
+	color: blue
+	}
+
+p{
+	font-size: 20px;
+}
+
+span {
+	font-size: 2rem;
+}
+
+
+.boxmodel {
+	border: 2px solid black;
+	border-style: inset;
+	display: inline-block;
+	padding: 20px 25px;
+	margin: 0px 20px;
+	width: 150px;
+	height: 20px;
+
+}
+
